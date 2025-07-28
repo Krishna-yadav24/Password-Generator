@@ -4,7 +4,7 @@ enabling users to generate strong, secure, and customizable passwords based on
 various user-defined criteria. Designed with a focus on usability, responsiveness,
 and security awareness.
 
-🚀 Features
+🚀 Features 
 
 🎚️ Adjustable password length (1–50 characters)
 🔠 Include/exclude uppercase and lowercase letters
