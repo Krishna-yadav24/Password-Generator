@@ -23,13 +23,10 @@ and security awareness.
 🧠 Random Password Generation Logic
 
 Tech Stack
+Vite + React :- installation of modules and src
 
-HTML5 — Markup structure
+HTML5: — Markup structure
 
-CSS — Custom styling with gradients and animations
+CSS : — Custom styling with gradients and animations
 
-JavaScript — Logic and password generation
-
-ViteReact - installation of modules and src
-
-Clipboard API — For copying generated passwords
+JavaScript : — Logic and password generation
